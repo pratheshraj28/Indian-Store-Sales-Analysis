@@ -39,10 +39,7 @@ To boost **2023 sales**, the store should:
 - Launch special **sales campaigns** during peak sales months like **March**.  
 
 ## Dashboard Preview  
-![Dashboard Image](<insert-image-link-here>)  
+![Dashboard Image](https://github.com/pratheshraj28/Indian-Store-Sales-Analysis/blob/main/Indian%20Store%20Dasboard.png?raw=true)  
 
 ---
-
-### 📂 Access the Dashboard  
-[Click here to view the Excel Dashboard](<insert-link-here>)  
 
